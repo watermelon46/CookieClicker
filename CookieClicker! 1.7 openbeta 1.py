@@ -82,7 +82,7 @@ if device=="pc":
     print("| \__/\ (_) | (_) |   <| |  __/ \__/\ | | (__|   <  __/ |   ")
     print(" \____/\___/ \___/|_|\_\_|\___|\____/_|_|\___|_|\_\___|_|   ")
 elif device=="mobile":
-    print("CookieClicker! v1.7")
+    print("CookieClicker! v1.7 openbeta 1")
 if lang=="RU":
     print("Сделано Холинимом\nКоманды:\nEnter (клавиша) - клик\nshop - открыть магазин\nexchange - обменять печенье на монеты")
     input("Нажми Enter два раза чтобы начать :D\n")
