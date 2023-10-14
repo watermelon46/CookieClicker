@@ -8,3 +8,5 @@ system requirements:
  have a computer on which you run the game
 
 by holinim (watermelon46) with ❤️
+
+COOKIECLICKER 1.6 OR HIGHER NEED A ccsave.txt FILE IN GAMEDIR
