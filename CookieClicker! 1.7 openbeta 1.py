@@ -1,5 +1,5 @@
 # Hi! If you don't understand Russian - just use translator. Good luck!
-# This is a OPENBETA, It can contain many bugs
+# This is a BETA, It can contain many bugs
 # Настройки по умолчанию
 device="pc"
 lang="EN"
