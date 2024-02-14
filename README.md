@@ -11,12 +11,12 @@ by holinim (watermelon46) with ❤️
 | Version             | Used libs          |
 | ------------------- | ------------------ |
 | 1.1                 | :x:                |
-| 1.2                 | time               |
-| 1.3                 | time               |
-| 1.4                 | time               |
-| 1.5                 | time               |
-| 1.6                 | sleep from time    |
-| 1.7openbeta         | sleep from time    | 
+| 1.2                 | built-ins               |
+| 1.3                 | built-ins               |
+| 1.4                 | built-ins               |
+| 1.5                 | built-ins               |
+| 1.6                 | built-ins    |
+| 1.7openbeta         | built-ins    | 
 
 
 
