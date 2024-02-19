@@ -1,4 +1,4 @@
-# CookieClicker
+# CookieClicker Classic
 my simple python game with using only built-in libraries
 
 the essence of game:
